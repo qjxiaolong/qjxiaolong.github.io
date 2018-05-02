@@ -1,0 +1,10 @@
+使用SSH连接远程GIT仓库
+
+1.添加：git add 文件名或者目录/文件名
+
+2.提交：git commit -m "描述"
+
+3.上传：git pull git@github.com:qjxiaolong/qjxiaolong.github.io.git
+	lxl100100
+	git push git@github.com:qjxiaolong/qjxiaolong.github.io.git
+	lxl100100
